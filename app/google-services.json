@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336552655120",
+    "project_id": "moodairy-ca239",
+    "storage_bucket": "moodairy-ca239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336552655120:android:cc9f7ca535db14119a0d95",
+        "android_client_info": {
+          "package_name": "com.example.moodairy_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336552655120-int9sgtjeg4mvjmdh9njcpdco4eh23vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFhQZ3ofV-XludTYPBnDHCC0wsbT_Dqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336552655120-int9sgtjeg4mvjmdh9njcpdco4eh23vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
