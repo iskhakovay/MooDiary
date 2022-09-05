@@ -1,5 +1,7 @@
 package com.example.moodairy_v1;
 
+import static com.example.moodairy_v1.R.id.listView_show;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -74,7 +76,7 @@ public class Calendar extends AppCompatActivity implements View.OnClickListener 
         noteRef = FirebaseDatabase.getInstance().getReference("Notes/");
         moodRef = FirebaseDatabase.getInstance().getReference("Mood/");
         mediRef = FirebaseDatabase.getInstance().getReference("Meditations/");
-        show_data = (ListView) findViewById(R.id.listView_show);
+        //show_data = (ListView) findViewById(R.id.listView_show);
         moods = new ArrayList<Mood>();
         meditations = new ArrayList<Meditations>();
         notes = new ArrayList<Notes>();
